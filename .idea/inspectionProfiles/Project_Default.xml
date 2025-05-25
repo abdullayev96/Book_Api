@@ -1,0 +1,56 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="Django" />
+            <item index="1" class="java.lang.String" itemvalue="pytz" />
+            <item index="2" class="java.lang.String" itemvalue="sqlparse" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="controller.pyfirmate" />
+          <option value="load_model" />
+          <option value="keras.model" />
+          <option value="settings" />
+          <option value="test_pytorch.src" />
+          <option value="home.app.tests.*" />
+          <option value="os" />
+          <option value="telegram.ext" />
+          <option value="Followrs" />
+          <option value="flask.api1.views.woow" />
+          <option value="flask.api1.serializers.woow" />
+          <option value="rest_framework.permissions.IsAdminUserReadOnly" />
+          <option value="women.views.IsOwnerOrReadOnly" />
+          <option value="rest_framework.permissions.IsOwnerOrReadOnly" />
+          <option value="women.permissions.IsOwnerOrReadOnly" />
+          <option value="delicious_restaurant.delicious.foods.urls.www" />
+          <option value="woow.views.user_page.as_view" />
+          <option value="woow.views.Post_today.as_view" />
+          <option value="telegram.Bot" />
+          <option value="user.views.index.as_view" />
+          <option value="telegram.ext.Filters" />
+          <option value="bot.RXConfigBase" />
+          <option value="house.bot_house.management.commands.runbot.bot_house" />
+          <option value="telegram.utils" />
+          <option value="telegram.utils.request" />
+          <option value="ugc.management.commands.bot.filterstext" />
+          <option value="ugc.management.commands.bot.Request" />
+          <option value="university.models.reverse" />
+          <option value="university.forms.ValidationError" />
+          <option value="mysite.myapp.models.reverse" />
+          <option value="mysite.user.models.reverse" />
+          <option value="telegram.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
